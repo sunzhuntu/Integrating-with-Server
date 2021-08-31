@@ -8,6 +8,6 @@ Under the root directory of your react application, create a folder 'server', an
 
 ## How to Run
 
-### Frontend: npm start
-### Backend: npm run dev (ensure add a script "dev": "nodemon server/server.js" in the package.json file)
+#### Frontend: npm start
+#### Backend: npm run dev (add a script "dev": "nodemon server/server.js" in the package.json file)
 
